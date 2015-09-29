@@ -1,2 +1,2 @@
 # Asteroseismic-plotting
-Code used to plot asteroseismic data in various ways
+Code used to create various plots of asteroseismic data
